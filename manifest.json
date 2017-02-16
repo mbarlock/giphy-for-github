@@ -19,7 +19,7 @@
 },
 "content_scripts": [
     {
-      "matches": ["https://github.com/*"],
+      "matches": ["https://github.ibm.com/*"],
       "js": ["main.js"]
     }
   ]
