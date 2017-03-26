@@ -1,4 +1,4 @@
-# Giphy for GitHub
+# Giphy for GitHub (for IBM)
 This is a chrome extension that gives you the ability to easily add gifs from giphy into pull request comments.
 
 ## Adding to chrome
